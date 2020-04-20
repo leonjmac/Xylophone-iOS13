@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A58C60D7244E5A000041B0D1 /* Sample - A button playing.png in Resources */ = {isa = PBXBuildFile; fileRef = A58C60D5244E5A000041B0D1 /* Sample - A button playing.png */; };
+		A58C60D8244E5A000041B0D1 /* Sample - G button playing.png in Resources */ = {isa = PBXBuildFile; fileRef = A58C60D6244E5A000041B0D1 /* Sample - G button playing.png */; };
 		AD937BF622C61DBB002E2D88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF522C61DBB002E2D88 /* AppDelegate.swift */; };
 		AD937BF822C61DBB002E2D88 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */; };
 		AD937BFA22C61DBB002E2D88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD937BF922C61DBB002E2D88 /* ViewController.swift */; };
@@ -24,6 +26,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A58C60D5244E5A000041B0D1 /* Sample - A button playing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sample - A button playing.png"; sourceTree = "<group>"; };
+		A58C60D6244E5A000041B0D1 /* Sample - G button playing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sample - G button playing.png"; sourceTree = "<group>"; };
 		AD937BF222C61DBB002E2D88 /* Xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD937BF522C61DBB002E2D88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD937BF722C61DBB002E2D88 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +84,8 @@
 				AD937BFE22C61DBE002E2D88 /* Assets.xcassets */,
 				ADE587EA22CB5121007F0F9A /* LaunchScreen.storyboard */,
 				AD937C0322C61DBE002E2D88 /* Info.plist */,
+				A58C60D5244E5A000041B0D1 /* Sample - A button playing.png */,
+				A58C60D6244E5A000041B0D1 /* Sample - G button playing.png */,
 				ADE587FA22CB5141007F0F9A /* Sounds */,
 			);
 			path = Xylophone;
@@ -161,6 +167,7 @@
 				ADE587F422CB513D007F0F9A /* G.wav in Resources */,
 				AD937BFF22C61DBE002E2D88 /* Assets.xcassets in Resources */,
 				ADE587EB22CB5121007F0F9A /* LaunchScreen.storyboard in Resources */,
+				A58C60D7244E5A000041B0D1 /* Sample - A button playing.png in Resources */,
 				ADE587E922CB4D36007F0F9A /* README.md in Resources */,
 				ADE587F922CB513D007F0F9A /* D.wav in Resources */,
 				ADE587F522CB513D007F0F9A /* C.wav in Resources */,
@@ -168,6 +175,7 @@
 				ADE587F322CB513D007F0F9A /* A.wav in Resources */,
 				ADE587F622CB513D007F0F9A /* E.wav in Resources */,
 				AD937BFD22C61DBB002E2D88 /* Main.storyboard in Resources */,
+				A58C60D8244E5A000041B0D1 /* Sample - G button playing.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
